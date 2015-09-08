@@ -4,7 +4,7 @@ This project forked from [daterangepicker](https://github.com/dangrossman/bootst
 
 What change ?
 
-* Remove dependence from momentjs
+* Remove dependence from local momentjs
 * Replace depends to [baysao:bootstrap-daterangepicker](https://atmospherejs.com/baysao/bootstrap-daterangepicker)
 
 ### Installation

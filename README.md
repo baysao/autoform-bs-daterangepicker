@@ -1,13 +1,18 @@
 autoform-bs-daterangepicker
 ====================
-[daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker/) packaged for [Meteor](http://meteor.com).
+This project forked from [daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker/) packaged for [Meteor](http://meteor.com).
+
+What change ?
+
+* Remove dependence from momentjs
+* Replace depends to [baysao:bootstrap-daterangepicker](https://atmospherejs.com/baysao/bootstrap-daterangepicker)
 
 ### Installation
 
 With Meteor 0.9.3 and above, install using:
 
 ```sh
-$ meteor add antalakas:autoform-bs-daterangepicker
+$ meteor add baysao:autoform-bs-daterangepicker
 ```
 
 
